@@ -14,20 +14,19 @@ to train four distinct classifiers: Logistic Regression, Naive Bayes, Support Ve
 
 ## Technologies and Libraries
 
-Python
-requests
-re
-BeautifulSoup
-pandas
-Scikit Learn
-CountVectorizer
-TfidfVectorizer
-LogisticRegression
-Random Forest
-SVM
-Confusion Matrix
-seaborn
-matplotlib
+- Python
+- requests
+- BeautifulSoup
+- pandas
+- Scikit Learn
+- CountVectorizer
+- TfidfVectorizer
+- LogisticRegression
+- Random Forest
+- SVM
+- Confusion Matrix
+- seaborn
+- matplotlib
 
 ## Setup
 
